@@ -1,9 +1,33 @@
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
 header {
     width: 351px;
+    margin: auto;
+}
+
+.container-f {
+    margin: auto;
+    width: 100%;
+    background-color: rgba(153, 152, 152, 0.369);
+    height: 100px
+    
+}
+
+.solid {
+    width: 351px;
+    height: 33%;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    background-color: white;
+}
+
+.button {
+    width: 118px;
+    margin: auto;
+     
+}
+
+.p {
+    text-align: center;
+    padding: 10px;
     margin: auto;
 }
